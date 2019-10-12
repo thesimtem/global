@@ -1,0 +1,2 @@
+# global
+Hi,Hello
